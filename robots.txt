@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://honkairail.wiki/sitemap.xml
