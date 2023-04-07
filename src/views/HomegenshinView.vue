@@ -19,7 +19,7 @@
                 <img :src="counter.domain_Backend+counter.Data_NV_one_h_g.Icon_Nguyen_to" class="top-0 right-0 absolute w-[50px] h-[50px]" />
             </div>
             <pre class="whitespace-pre-line text-justify flex justify-center items-center h-full w-full bg-[#2f3370] px-2 py-1 text-gray-300 mt-[15px] rounded font-medium text-[16px]">{{ counter.Data_NV_one_h_g.Mo_ta }}</pre>
-            <p>{{ counter.title }}</p>
+            <!-- <p>{{ counter.title }}</p> -->
             <div class="flex flex-col gap-3 mt-[25px]">
                 <h2 class="text-[16px] font-semibold text-yellow-300">Nguyên Liệu Đột Phá {{ counter.Data_NV_one_h_g.Ten }}</h2>
                 <div class="flex flex-col gap-3 ">
